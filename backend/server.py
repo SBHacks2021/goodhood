@@ -14,7 +14,7 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://eat-local-96903-default-rtdb.firebaseio.com'
 })
 
-gmaps = googlemaps.Client('AIzaSyAM0-YlqV6DvJup6xXQtY-t_JWgPUWCohs')
+gmaps = googlemaps.Client()
 
 
 @app.route('/api')
