@@ -1,5 +1,5 @@
 ## Inspiration
-Supporting small businesses during the pandemic shouldn’t be a challenge. We as a team realized how difficult it is to actually find local restaurants that we could support. While [local news outlets] (https://www.noozhawk.com/open_for_business) did provide a list of restaurants, it was hard to navigate.
+Supporting small businesses during the pandemic shouldn’t be a challenge. We as a team realized how difficult it is to actually find local restaurants that we could support. While [local news outlets](https://www.noozhawk.com/open_for_business) did provide a list of restaurants, it was hard to navigate.
 
 We were also inspired when we realized that even though food delivery companies/apps help these businesses with their services, that take a large chunk of the profit at the end of the day.
 
